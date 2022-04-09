@@ -1,0 +1,113 @@
+.contact-form input, .contact-form textarea, .contact-form select {
+  font-family: 'Open Sans', sans-serif;
+  background: #FFFFFF;
+  border: 1px solid #E7E7E7;
+  color: rgba(85, 81, 81, 0.84);
+  padding: 8px;
+  display: block;
+  width: 96.3333%;
+  outline: none;
+  -webkit-appearance: none;
+  text-transform: capitalize;
+}
+
+.img-responsivee {
+	display: block;
+  	max-width: 100%;
+}
+
+.content_textt {
+	margin-top: 4%;
+	border-radius: 25px;
+  border: 2px solid #8AC007;
+  padding: 20px; 
+  width: 700px;
+}
+.content_textt h3{
+	font-size:15px;
+	color:#000000;
+	text-transform:uppercase;
+}
+.content_textt h4{
+	margin:20px 0 10px;
+	font-size:1.5em;
+	color:#000000;
+	text-transform:uppercase;
+	text-decoration:underline;
+	display: inline-block;
+	font-style: italic;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+.content_textt h4 a:hover{
+	color:#00405d;
+	text-decoration:none;
+}
+.content_textt p{
+	font-style: italic;
+	font-size:0.8725em;
+	color:#000000;
+	line-height: 1.8em;
+	margin: 0 auto;
+}
+.contact-formm{
+	position:relative;
+	width: 50em;
+}
+.contact-formm div{
+	padding:5px 0;
+}
+.contact-formm span label{
+	margin-top: 10px;
+	color: #777777;
+	display: block;
+	font-size: 0.8725em;
+	padding-bottom: 5px;
+	text-transform: capitalize;
+	font-weight: normal;
+}
+.contact-formm input[type="text"], .contact-formm textarea {
+	font-family: 'Open Sans', sans-serif;
+	background: #FFFFFF;
+	border: 1px solid #E7E7E7;
+	color: rgba(85, 81, 81, 0.84);
+	padding: 8px;
+	display: block;
+	width: 96.3333%;
+	outline: none;
+	-webkit-appearance: none;
+	text-transform: capitalize;
+}
+.contact-formm textarea{
+	resize:none;
+	height:120px;
+}
+.contact-formm input[type="submit"]{
+	margin-top: 10px;
+	-webkit-appearance: none;
+	border: none;
+	outline: none;
+	font-family: 'Open Sans', sans-serif;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 1em;
+	padding: 12px 25px;
+	background: #00405d;
+	color: #fff;
+	text-transform: uppercase;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+.contact-formm input[type="submit"]:hover{
+	background: #ffcc33;
+	color: #ffffff;
+}
+.oldprice { 
+     color: #999; 
+     text-decoration: line-through; 
+     font-size: 13px; 
+}

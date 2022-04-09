@@ -1,0 +1,125 @@
+
+project.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blue
+  rotate: false
+  xy: 102, 102
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 516, 616
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+down_round
+  rotate: false
+  xy: 52, 102
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+file
+  rotate: false
+  xy: 516, 666
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+folder
+  rotate: false
+  xy: 52, 152
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+font
+  rotate: false
+  xy: 2, 202
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 566, 616
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+left_round
+  rotate: false
+  xy: 2, 102
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+power
+  rotate: false
+  xy: 616, 666
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+query
+  rotate: false
+  xy: 152, 152
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 566, 666
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+right_round
+  rotate: false
+  xy: 2, 52
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+seed
+  rotate: false
+  xy: 516, 566
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 2, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+up_round
+  rotate: false
+  xy: 52, 52
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+zoom_minus
+  rotate: false
+  xy: 2, 152
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+zoom_plus
+  rotate: false
+  xy: 102, 152
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
